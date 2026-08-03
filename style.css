@@ -1,0 +1,104 @@
+body{
+
+    margin:0;
+
+    background:#F6F4EE;
+
+    color:#2C2C2C;
+
+    font-family:-apple-system,
+                BlinkMacSystemFont,
+                "SF Pro Display",
+                sans-serif;
+
+}
+
+.container{
+
+    max-width:700px;
+
+    margin:auto;
+
+    padding:60px 30px;
+
+}
+
+.hero{
+
+    text-align:center;
+
+    margin-bottom:70px;
+
+}
+
+.icon{
+
+    font-size:60px;
+
+}
+
+h1{
+
+    margin-top:10px;
+
+    font-size:52px;
+
+}
+
+.subtitle{
+
+    color:#666;
+
+    font-size:20px;
+
+}
+
+section{
+
+    margin-bottom:45px;
+
+}
+
+h2{
+
+    margin-bottom:15px;
+
+}
+
+ul{
+
+    padding-left:20px;
+
+}
+
+li{
+
+    margin:10px 0;
+
+}
+
+.button{
+
+    display:inline-block;
+
+    padding:14px 28px;
+
+    background:#6A8E5A;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:14px;
+
+    margin-right:10px;
+
+}
+
+.secondary{
+
+    background:#CFCFCF;
+
+    color:#222;
+
+}
